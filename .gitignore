@@ -89,3 +89,6 @@ crashlytics-build.properties
 
 ### NPM ###
 node_modules/
+
+### Built files ###
+src/main/resources/assets/scripts.js
